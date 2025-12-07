@@ -78,4 +78,9 @@ All microservices dockerized, can run on Kubernetes
 Use ElasticSearch or SolR for Search data store
 Use gRPC instead of REST API
 Implement Design Pattern in your code, should be well suited with the problem solved but not
+
+
+Design:
+<img width="1049" height="896" alt="image" src="https://github.com/user-attachments/assets/25fb5c99-6cda-459a-947b-4369055d7318" />
+
 reinvent the wheel
